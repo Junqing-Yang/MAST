@@ -8,7 +8,7 @@ This is the code of "**MAST: Video Polyp Segmentation with a Mixture-Attention S
 
 You can find the weights and predictions of our model in [Google Drive](https://drive.google.com/drive/folders/101fumxq6i72edyUBCFBqnpGvj739TUDg?usp=sharing).
 
-If you want to test, please make a directory "weight" and put the weights in it. Then run MyTesting.py.
+If you want to test and evaluate, please make a directory called "weight" and put the weights in it. Run "MyTesting.py" to generate predictions, and then run "eval/vps_evaluator.py" to generate metrics.
 
 ## Evaluation
 
