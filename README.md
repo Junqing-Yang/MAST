@@ -16,6 +16,6 @@ If you want to test, please make a directory "weight" and put the weights in it.
 
 You can find the weights and predictions of our model in [Google Drive](https://drive.google.com/drive/folders/101fumxq6i72edyUBCFBqnpGvj739TUDg?usp=sharing).
 
-<img src="imgs/SUN-SEG-Easy.png" alt="SUN-SEG-Easy" style="zoom:50%;" />
+<img src="imgs/SUN-SEG-Easy.png" alt="SUN-SEG-Easy" style="zoom:25%;" />
 
-<img src="imgs/SUN-SEG-Hard.png" alt="SUN-SEG-Hard" style="zoom:50%;" />
+<img src="imgs/SUN-SEG-Hard.png" alt="SUN-SEG-Hard" style="zoom:25%;" />
