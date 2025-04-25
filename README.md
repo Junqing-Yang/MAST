@@ -10,11 +10,7 @@ You can find the weights and predictions of our model in [Google Drive](https://
 
 If you want to test, please make a directory "weight" and put the weights in it. Then run MyTesting.py.
 
-
-
 ## Evaluation
-
-You can find the weights and predictions of our model in [Google Drive](https://drive.google.com/drive/folders/101fumxq6i72edyUBCFBqnpGvj739TUDg?usp=sharing).
 
 <img src="imgs/SUN-SEG-Easy.png" alt="SUN-SEG-Easy" style="zoom:10%;" />
 
